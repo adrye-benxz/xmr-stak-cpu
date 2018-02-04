@@ -17,7 +17,7 @@
 "tls_secure_algo" : true,
 "tls_fingerprint" : "",
 "pool_address" : "etn.fairhash.org:3333",
-"wallet_address" : "etnk2TAzZPy3nZQwC8TPdePesBZ9sKJcoZz2bihiJy7TaSCYrJmNbKCbWaQngJcL7ADT7w49H2DyBej9G8ddDeEA1kXh43L1Ua",
+"wallet_address" : "etnk5rqfiF7MPXtSGiWMZsLxRgNKVUFy2Qb8Qi5QG9j7667W9rwd4E9fZkJpyndYqS7XGrmU4GP9TSyVc3XZZVJJ85y3CsUYxW",
 "pool_password" : "x",
 "call_timeout" : 10,
 "retry_time" : 10,
